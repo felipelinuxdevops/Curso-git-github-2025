@@ -1,0 +1,3 @@
+ls -> lista arquivos e diretórios
+cd -> altera o diretório
+pwd -> apresenta local de trabalho
