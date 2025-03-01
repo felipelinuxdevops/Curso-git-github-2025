@@ -1,3 +1,6 @@
 ls -> lista arquivos e diretórios
 cd -> altera o diretório
 pwd -> apresenta local de trabalho
+cat -> exibe conteudo do arquivo
+rm -> remove arquivo ou diretório
+mkdir -> Cria uma nova pasta
