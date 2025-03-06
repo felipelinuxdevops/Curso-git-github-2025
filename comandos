@@ -1,5 +1,0 @@
-# Arquivo para comandos secundários do git.
-
-git checkout -b <nome da branch> -> Cria uma nova branch
-git branch -> exibe suas branchs e em qual está trabalhando
-git checkout main -> Retorna para branch main. Para criar uma brach que não existe é necessário utilizar o -b
