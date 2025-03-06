@@ -2,4 +2,19 @@ git init . -> Cria um repo git na pasta atual
 git status -> mostra o status do trabalho
 git add -> adiciona arquivo para ser commitado
 git commit -m "msg" -> Faz commit do que estava a ser commitado
-git diff -> mostra o arquivo que está pendente de commitação.
+git log -> mostra todo o histórico de commit
+git checkout <nome da branch> -> altera a branch de trabalho
+branch -D <nome> -> Apaga a branch
+git checkout -b <nome> -> Cria um usuário de trabalho novo.
+
+
+## FLUXO DE TRABALHO ##
+1. Criar o diretório (Pasta) do projeto
+2. Iniciar o git dentro do diretório criado (git init .)
+3. editar ou criar arquivos
+4. git status
+5. git add <Nome arquivo>
+6. git status
+7. git commit -m "Mensagem"
+8. git status
+9. Volta para o passo 3
